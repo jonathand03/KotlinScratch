@@ -12,5 +12,4 @@ fun main(args: Array<String>){
     println(HEAD)
     println(simpleFunc("Hello"))
     println("A($a) + B($b) | Soma = ${Sum(a,b)} |  Sub = ${Sub(a,b)}" )
-
 }
