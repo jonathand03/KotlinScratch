@@ -9,7 +9,7 @@ public class Main {
 
         Me.setRegisterParameters(Client.parameterType.NAME,"Jonathan");
         Me.setRegisterParameters(Client.parameterType.AGE, "27");
-         Me.setRegisterParameters(Client.parameterType.ADDRESS, "Rua 902, casa 73, Conjunto Ceará - Fortaleza - CE");
+         Me.setRegisterParameters(Client.parameterType.ADDRESS, "Rua A, Avenida B, Numero 1");
         System.out.println(Me.showAddress());
     }
 }
