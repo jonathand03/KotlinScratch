@@ -24,4 +24,6 @@ public class Client {
     public String showName(){
         return this.MyInfo.getName();
     }
+    public int showAge(){return this.MyInfo.getAge();}
+    public  String showAddress(){return this.MyInfo.getAddress();}
 }
