@@ -9,7 +9,8 @@ public class Main {
 
         Me.setRegisterParameters(Client.parameterType.NAME,"Jonathan");
         Me.setRegisterParameters(Client.parameterType.AGE, "27");
-         Me.setRegisterParameters(Client.parameterType.ADDRESS, "Rua A, Avenida B, Numero 1");
+        Me.setRegisterParameters(Client.parameterType.ADDRESS, "Rua A, Avenida B, Numero 1");
         System.out.println(Me.showAddress());
+
     }
 }
