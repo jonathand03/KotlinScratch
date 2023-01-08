@@ -1,9 +1,10 @@
 package SingUp;
 
 public class Singup {
-    public String registerMessage = "Bem - Vindo ao Centro de Cadastro";
-    public String registerGetNameMessage = "Por favor, digite seu nome: ";
-    public String registerGetAgeMessage = "Por favor, digite sua idade: ";
+    private String registerMessage          = "Bem - Vindo ao Centro de Cadastro";
+    private String registerGetNameMessage   = "Por favor, digite seu nome: ";
+    private String registerGetAgeMessage    = "Por favor, digite sua idade: ";
+    private String regigsterGetAddress      = "Por favor, digite seu endereço";
 
     public void register(){
 
