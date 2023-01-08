@@ -5,7 +5,7 @@ public class Singup {
     private String registerGetNameMessage   = "Por favor, digite seu nome: ";
     private String registerGetAgeMessage    = "Por favor, digite sua idade: ";
     private String regigsterGetAddress      = "Por favor, digite seu endereço";
-
+    private String teste = "Teste";
     public void register(){
 
     }
